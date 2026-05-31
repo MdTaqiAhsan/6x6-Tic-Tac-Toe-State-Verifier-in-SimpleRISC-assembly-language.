@@ -1,0 +1,1 @@
+# 6x6-Tic-Tac-Toe-State-Verifier-in-SimpleRISC-assembly-language.
